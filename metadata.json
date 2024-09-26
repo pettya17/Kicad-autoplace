@@ -1,0 +1,26 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Utility",
+    "description": "Utility Plugin for KiCad",
+    "description_full": "This plugin inputs parts from the spreadsheet to the presently active PCB.\nVisit project homepage to learn more.",
+    "identifier": "anonymus",
+    "type": "plugin",
+    "author": {
+        "name": "anonymous",
+        "contact": {
+            "web": "https://example.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "Homepage": "https://github.com",
+        "Bug Tracker": "https://github.com"
+    },
+    "versions": [
+        {
+            "version": "0.1.0",
+            "status": "development",
+            "kicad_version": "6.0"
+        }
+    ]
+}
